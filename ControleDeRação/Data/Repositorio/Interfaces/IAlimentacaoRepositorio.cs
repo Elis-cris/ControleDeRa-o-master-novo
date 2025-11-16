@@ -1,10 +1,8 @@
 ﻿using ControleDeRacao.Models;
-using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace ControleDeRacao.Data.Repositorio.Interfaces
-
 {
 
     public interface IAlimentacaoRepositorio
